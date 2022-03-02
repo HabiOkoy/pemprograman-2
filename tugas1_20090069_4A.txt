@@ -1,0 +1,30 @@
+
+C:\Users\Xiao You>cd ..
+
+C:\Users>cd ..
+
+C:\>cd C:cd xampp7.4.16
+The system cannot find the path specified.
+
+C:\>C:cd xampp7.4.16
+'C:cd' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\>C:cd xampp7.4.16
+'C:cd' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\>cd xampp7.4.166
+The system cannot find the path specified.
+
+C:\>cd xampp7.4.16
+
+C:\xampp7.4.16>cd htdocs
+
+C:\xampp7.4.16\htdocs>cd pw2
+
+C:\xampp7.4.16\htdocs\pw2>php tugas1.php
+Nama : muhamad ilham nur habibie W
+Nim : 20090069
+Kelas : 4A
+C:\xampp7.4.16\htdocs\pw2>
